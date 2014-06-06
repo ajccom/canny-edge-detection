@@ -4,7 +4,7 @@ canny-edge-detection
 canny edge detection in javascript.
 
 
-### code from this (blog)[http://blog.csdn.net/likezhaobin/article/details/6892629]
+### code from this [blog](http://blog.csdn.net/likezhaobin/article/details/6892629)
 
 The author code it in VC, and I am translate it to javascript.
 
