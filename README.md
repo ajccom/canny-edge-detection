@@ -20,5 +20,6 @@ You can see the blog upside.
 
 ### Result
 
+![result](/temp/ooo2.jpg)
 ![result](/temp/canvas.png)
 
